@@ -1,0 +1,5 @@
+lam=0.1 DBR-5          cost= 1688.7 ped=   922 veh=  3974 com=   426 regs=  27.7 cells/call= 14.4 delay=2.26
+lam=0.1 DBR-3          cost= 1392.7 ped=   815 veh=  3231 com=   325 regs=  54.9 cells/call=  8.6 delay=1.90
+lam=0.1 v1 (H15,2rd)   cost= 1815.0 ped=   967 veh=  4398 com=   362 regs= 100.2 cells/call=  6.2 delay=1.20
+lam=0.1 Dir H15,4rd    cost= 1610.5 ped=   941 veh=  3781 com=   332 regs=  95.3 cells/call=  4.8 delay=1.61
+lam=0.1 Dir H40,4rd    cost= 1583.1 ped=   880 veh=  3791 com=   313 regs=  87.9 cells/call=  5.4 delay=1.68

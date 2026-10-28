@@ -1,0 +1,24 @@
+lam=0.02 DBR-5            cost=  776.0 regs=  37.1 cells/call=  21.0 delay=2.74
+lam=0.02 DBR-7            cost=  819.1 regs=  23.4 cells/call=  30.2 delay=3.18
+lam=0.02 v1 (H15,2rd)     cost= 1015.7 regs=  50.4 cells/call=  21.3 delay=1.32
+lam=0.02 H40,2rd          cost= 1105.5 regs=  54.7 cells/call=  23.2 delay=1.25
+lam=0.02 H15,4rd          cost=  903.5 regs=  47.1 cells/call=  17.5 delay=2.09
+lam=0.02 H40,4rd          cost=  954.4 regs=  39.5 cells/call=  24.8 delay=2.02
+lam=0.02 H80,4rd          cost=  982.3 regs=  33.8 cells/call=  29.8 delay=2.05
+lam=0.02 H80,6rd          cost=  941.3 regs=  33.7 cells/call=  27.7 delay=2.98
+lam=0.005 DBR-5            cost=  512.1 regs=  39.4 cells/call=  25.1 delay=3.06
+lam=0.005 DBR-7            cost=  427.4 regs=  25.6 cells/call=  36.4 delay=3.60
+lam=0.005 v1 (H15,2rd)     cost=  627.1 regs=  42.5 cells/call=  24.9 delay=1.32
+lam=0.005 H40,2rd          cost=  536.3 regs=  20.0 cells/call=  62.7 delay=1.32
+lam=0.005 H15,4rd          cost=  550.1 regs=  37.5 cells/call=  21.3 delay=2.11
+lam=0.005 H40,4rd          cost=  533.7 regs=  30.0 cells/call=  36.7 delay=2.04
+lam=0.005 H80,4rd          cost=  494.3 regs=  24.4 cells/call=  42.6 delay=2.08
+lam=0.005 H80,6rd          cost=  457.7 regs=  16.7 cells/call=  54.5 delay=3.09
+lam=0.1 DBR-5            cost= 1688.7 regs=  27.7 cells/call=  14.4 delay=2.26
+lam=0.1 DBR-7            cost= 2089.7 regs=  15.8 cells/call=  19.7 delay=2.50
+lam=0.1 v1 (H15,2rd)     cost= 1815.0 regs= 100.2 cells/call=   6.2 delay=1.20
+lam=0.1 H40,2rd          cost= 1816.3 regs=  99.3 cells/call=   6.4 delay=1.20
+lam=0.1 H15,4rd          cost= 1557.5 regs=  78.6 cells/call=   6.3 delay=1.76
+lam=0.1 H40,4rd          cost= 1558.5 regs=  77.2 cells/call=   6.4 delay=1.77
+lam=0.1 H80,4rd          cost= 1553.4 regs=  77.1 cells/call=   6.4 delay=1.77
+lam=0.1 H80,6rd          cost= 1514.5 regs=  77.3 cells/call=   6.0 delay=2.41
