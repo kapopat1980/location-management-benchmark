@@ -1,0 +1,12 @@
+lam=0.005 DBR-3                      cost=  747.4 ped=   195 veh=  2102 com=   130
+lam=0.005 DBR-5                      cost=  512.1 ped=   166 veh=  1342 com=   144
+lam=0.005 DBR-8                      cost=  401.0 ped=   228 veh=   916 com=   116
+lam=0.005 DBR + per-context bandit   cost=  426.7 ped=   198 veh=  1023 com=   135
+lam=0.02 DBR-3                      cost=  874.7 ped=   335 veh=  2291 com=   178
+lam=0.02 DBR-5                      cost=  776.0 ped=   402 veh=  1807 com=   244
+lam=0.02 DBR-8                      cost=  857.8 ped=   544 veh=  1908 com=   225
+lam=0.02 DBR + per-context bandit   cost=  809.7 ped=   360 veh=  1963 com=   256
+lam=0.1 DBR-3                      cost= 1392.7 ped=   815 veh=  3231 com=   325
+lam=0.1 DBR-5                      cost= 1688.7 ped=   922 veh=  3974 com=   426
+lam=0.1 DBR-8                      cost= 2360.0 ped=   958 veh=  6085 com=   504
+lam=0.1 DBR + per-context bandit   cost= 1430.0 ped=   801 veh=  3366 com=   333

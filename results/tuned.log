@@ -1,0 +1,5 @@
+0.005 best: Distance-based (D=8, SDF) 419.9
+0.01 best: Distance-based (D=8, SDF) 582.8
+0.02 best: Distance-based (D=5, SDF) 777.9
+0.05 best: Distance-based (D=4, SDF) 1077.4
+0.1 best: Distance-based (D=3, SDF) 1380.4

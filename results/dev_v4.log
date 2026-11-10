@@ -1,0 +1,18 @@
+lam=0.02 DBR-5          cost=  776.0 ped=   402 veh=  1807 com=   244 regs=  37.1 cells/call= 21.0 delay=2.74
+lam=0.02 DBR-3          cost=  874.7 ped=   335 veh=  2291 com=   178 regs=  66.1 cells/call= 11.0 delay=2.14
+lam=0.02 DBR-8          cost=  857.8 ped=   544 veh=  1908 com=   225 regs=  18.9 cells/call= 34.6 delay=3.34
+lam=0.02 H fixed D5     cost=  924.2 ped=   540 veh=  2222 com=   138 regs=  37.1 cells/call= 24.8 delay=2.15
+lam=0.02 H bandit       cost=  917.7 ped=   417 veh=  2318 com=   185 regs=  53.4 cells/call= 14.3 delay=1.96
+lam=0.02 H bandit+dir   cost=  854.5 ped=   415 veh=  2135 com=   160 regs=  43.6 cells/call= 17.1 delay=1.98
+lam=0.005 DBR-5          cost=  512.1 ped=   166 veh=  1342 com=   144 regs=  39.4 cells/call= 25.1 delay=3.06
+lam=0.005 DBR-3          cost=  747.4 ped=   195 veh=  2102 com=   130 regs=  68.8 cells/call= 12.6 delay=2.32
+lam=0.005 DBR-8          cost=  401.0 ped=   228 veh=   916 com=   116 regs=  20.9 cells/call= 40.6 delay=3.77
+lam=0.005 H fixed D5     cost=  592.6 ped=   205 veh=  1618 com=    85 regs=  39.4 cells/call= 25.5 delay=2.17
+lam=0.005 H bandit       cost=  498.6 ped=   212 veh=  1281 com=    98 regs=  29.0 cells/call= 31.8 delay=2.13
+lam=0.005 H bandit+dir   cost=  472.8 ped=   222 veh=  1186 com=    94 regs=  24.9 cells/call= 36.9 delay=2.19
+lam=0.1 DBR-5          cost= 1688.7 ped=   922 veh=  3974 com=   426 regs=  27.7 cells/call= 14.4 delay=2.26
+lam=0.1 DBR-3          cost= 1392.7 ped=   815 veh=  3231 com=   325 regs=  54.9 cells/call=  8.6 delay=1.90
+lam=0.1 DBR-8          cost= 2360.0 ped=   958 veh=  6085 com=   504 regs=  12.1 cells/call= 22.8 delay=2.63
+lam=0.1 H fixed D5     cost= 2530.6 ped=  1995 veh=  5264 com=   512 regs=  27.7 cells/call= 22.4 delay=2.13
+lam=0.1 H bandit       cost= 1709.9 ped=   886 veh=  4182 com=   337 regs=  77.7 cells/call=  7.9 delay=1.84
+lam=0.1 H bandit+dir   cost= 1684.0 ped=   965 veh=  3996 com=   331 regs=  77.9 cells/call=  7.6 delay=1.85

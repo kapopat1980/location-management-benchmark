@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this benchmark, please cite it as below."
+title: "Location-management benchmark: tuned ring-paged baselines versus learned, adaptive and self-tuning schemes"
+type: software
+authors:
+  - family-names: Popat
+    given-names: Kalpesh
+    affiliation: "Faculty of Computer Applications, Marwadi University, Rajkot, India"
+  - family-names: Meva
+    given-names: Divyakant
+    affiliation: "Faculty of Computer Applications, Marwadi University, Rajkot, India"
+  - family-names: Kukadiya
+    given-names: Hirenkumar
+    affiliation: "Karnavati University, Gandhinagar, India"
+license: MIT
+repository-code: "https://github.com/kapopat1980/location-management-benchmark"
+date-released: "2026-10-04"

@@ -1,0 +1,3 @@
+CMR=0.25: per-user-tick cost  best-classic(blanket)=1.681  DBR+SDF*=1.024 (D=3)  AFLU(original)=1.276  AFLU(no look-ahead)=1.599  | AFLU orig vs classic -24.1%  AFLU fixed vs classic -4.9%  AFLU fixed vs DBR+SDF +56.2%
+CMR=1: per-user-tick cost  best-classic(blanket)=3.849  DBR+SDF*=2.216 (D=2)  AFLU(original)=2.281  AFLU(no look-ahead)=3.018  | AFLU orig vs classic -40.8%  AFLU fixed vs classic -21.6%  AFLU fixed vs DBR+SDF +36.2%
+CMR=4: per-user-tick cost  best-classic(blanket)=6.066  DBR+SDF*=3.703 (D=2)  AFLU(original)=4.053  AFLU(no look-ahead)=5.106  | AFLU orig vs classic -33.2%  AFLU fixed vs classic -15.8%  AFLU fixed vs DBR+SDF +37.9%
